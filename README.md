@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[BitTicker\] ](#-bitticker-)
+- [📖 \[CryptoJaja\] ](#-cryptojaja-)
   - [🛠 Built With Javascript, Javascript Events, Binance API, Linters, npm, Gitflow, Jest, React Testing Library](#-built-with-javascript-javascript-events-binance-api-linters-npm-gitflow-jest-react-testing-library)
     - [Tech Stack Javascript, React, Redux](#tech-stack-javascript-react-redux)
     - [Key Features ](#key-features-)
@@ -58,11 +58,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BitTicker] <a name="about-project"></a>
+# 📖 [CryptoJaja] <a name="about-project"></a>
 
 > The most reliable source for all your crypto statistics and analysis. Have a look at the current performance of your favorite crypto currency in Real-time.
 
-**[BitTicker]** is a mobile web application that displays a list of metrics (crypto statistics) created with React and Redux.
+**[CryptoJaja]** is a mobile web application that displays a list of metrics (crypto statistics) created with React and Redux.
 
 ## 🛠 Built With <a name="built-with">Javascript, Javascript Events, Binance API, Linters, npm, Gitflow, Jest, React Testing Library</a>
 
@@ -159,7 +159,7 @@ run npm build
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -173,8 +173,10 @@ run npm build
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features">The following suggestions could be used to improve the next version</a>
 
+> Make the styling alittle more attractive.
+> Add ability to trade.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,7 +223,7 @@ I would like to thank [@Binance](https://github.com/binance) for this [public AP
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
