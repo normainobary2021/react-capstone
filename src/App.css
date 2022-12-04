@@ -7,3 +7,7 @@ a {
 li {
   list-style-type: none;
 }
+
+.App {
+  font-family: 'Lato', sans-serif;
+}
