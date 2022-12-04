@@ -41,6 +41,7 @@ After you're finished please remove all the comments and instructions!
     - [Tech Stack Javascript, React, Redux](#tech-stack-javascript-react-redux)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [Loom Video](#loom-video)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -108,6 +109,12 @@ After you're finished please remove all the comments and instructions!
 - [Live Demo Link](https://cryptojaja-metrics.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LOOM VIDEO LINK -->
+
+## Loom Video Link <a name="loom-video"></a>
+
+- [Loom Recording](https://www.loom.com/share/12d2d21fb6934cbaa0519906a5683b31)
 
 <!-- GETTING STARTED -->
 
