@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details page renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="search"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Search..."
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="coins"
+  />
+</div>
+`;
